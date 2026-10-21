@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-220-fix-fees-share-one-fee-math-helper-between-the",
+    "fix/issue-230-fix-db-assert-fee-usdc-never-exceeds-the-gross",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-220-fix-fees-share-one-fee-math-helper-between-the": "main",
+    "fix/issue-230-fix-db-assert-fee-usdc-never-exceeds-the-gross": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-220-fix-fees-share-one-fee-math-helper-between-the",
+    "fix/issue-230-fix-db-assert-fee-usdc-never-exceeds-the-gross",
+    "origin"
+  ]
+}
